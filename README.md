@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
-- 👀 I’m interested in mechatronics & cars
-- 🌱 I’m currently learning c++
+- 👩‍🔧 I’m studying mechatronics
+- 🧨 I love video games and sport
 - 📫 How to reach me: juliaszcz24@gmail.com
 
 <!---
