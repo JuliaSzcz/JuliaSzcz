@@ -1,7 +1,8 @@
 - 🤍 Hi, I’m Julia
 - 👩‍🔧 I’m studying mechatronics
 - 🎮 I love video games and sport
-- ✍️ 4F writing some kind of blog 
+- ✍️ 4F writing some kind of blog
+- 🤪 sometimes doing really random things
 - 📫 How to reach me: juliaszcz24@gmail.com
 
 <!---
